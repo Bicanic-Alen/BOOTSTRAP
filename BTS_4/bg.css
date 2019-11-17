@@ -1,0 +1,96 @@
+body {
+
+    background-attachment: fixed;
+    background-size: 100%;
+    font-family: 'Kulim Park', sans-serif;
+    font-size: 28px;
+}
+
+.body {
+    z-index: 0;
+}
+.vd
+{
+  margin-top : 55px;
+}
+
+dd{
+  font-size:15px
+}
+
+#nav1 {
+    background-color: rgb(37, 34, 34);
+    /*whichever you want*/
+    opacity: 0.5;
+    filter: (opacity=50);
+}
+
+#src {
+    color: Black;
+    font-size: 24px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-radius: 50px;
+    width: 45px;
+    transition-duration: 0.4s;
+    margin-right: 0px;
+}
+
+.vid
+{
+  margin-top : 80px;
+}
+.spz
+{
+
+  margin-bottom: 35px;
+}
+.spz1
+{
+
+  margin-bottom: 40px;
+}
+.container-fluid {
+    padding: 0px;
+    margin: 0px;
+}
+
+#src:focus {
+    width: 200px;
+    transition: all 0.8s;
+}
+
+#srcicon {
+    color: white;
+}
+
+#dropm {
+    transition-duration: 0.4s;
+    transition: all 0.8s;
+}
+
+
+
+
+.cont {
+    z-index: 1;
+}
+
+.center {
+    padding: auto;
+    margin: auto;
+}
+
+
+
+.ic {
+    text-align;
+    : center;
+}
+
+#title {
+    width: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
